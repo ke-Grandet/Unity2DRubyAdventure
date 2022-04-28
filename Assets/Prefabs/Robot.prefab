@@ -322,10 +322,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3863004018229739872, guid: 9a4d2b60a61f90946acd85c3299710f8, type: 3}
-      propertyPath: m_SortingOrder
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8427433974527381096, guid: 9a4d2b60a61f90946acd85c3299710f8, type: 3}
       propertyPath: m_Name
       value: SmokeEffect
