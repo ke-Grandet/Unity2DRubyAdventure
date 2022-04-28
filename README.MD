@@ -7,3 +7,9 @@
 * 有巡逻的敌人和一个NPC，敌人身上带有粒子特效
 * 通过Raycast检测NPC触发对话
 * 使用Cinemachine实现相机跟随，配合Polygon Collider划定相机边界
+
+## 截图
+<img src='https://github.com/ke-Grandet/Unity2DRubyAdventure/blob/master/images/1.png' />
+<img src='https://github.com/ke-Grandet/Unity2DRubyAdventure/blob/master/images/2.png' />
+<img src='https://github.com/ke-Grandet/Unity2DRubyAdventure/blob/master/images/3.png' />
+<img src='https://github.com/ke-Grandet/Unity2DRubyAdventure/blob/master/images/4.png' />
